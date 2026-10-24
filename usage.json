@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/agentra-ui",
+  "packageVersion": "0.1.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/agentra-ui",
+  "usageRepository": "https://github.com/x12i-sdk/agentra-ui",
+  "sourceRepository": "https://github.com/x12i/agentra",
+  "sourceCommit": "772e50e64925e6359e42172d4dcf11d4aa795763",
+  "sourcePackageDirectory": "packages/ui",
+  "example": {
+    "title": "Detect the published widget placeholder and render a host fallback",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T14:57:28.897821+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "e3245647c45b4ac1576ae10a242f7f93f85cb2cb9c753b684c96cc0f3d4386a1",
+    "manifestSha256": "a8ea68d55993c73cef8755e88c2f542cbdd76be3159ba88be737cb4e11ebfb90"
+  },
+  "validationFiles": {
+    "src/index.mjs": "e3245647c45b4ac1576ae10a242f7f93f85cb2cb9c753b684c96cc0f3d4386a1"
+  }
+}
